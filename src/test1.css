@@ -1,0 +1,19 @@
+.test1-container {
+    width: 80%;
+    margin: auto;
+    line-height: 30px;
+}
+
+.test1-navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+    .test1-navigation__prev {
+        border: black 1px solid;
+    }
+
+    .test1-navigation__next {
+        border: black 1px solid;
+    }
